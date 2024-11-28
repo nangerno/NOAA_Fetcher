@@ -4,8 +4,8 @@ import requests
 from bs4 import BeautifulSoup
 import asyncio
 
-TOKEN = 'MTMxMDk4Nzg4NDM1Mzk0OTc3Ng.GRmvxo.V0AZPQt74PTT7tOD6Y0Nv4wK0XeHrFHOcknz6g'
-CHANNEL_ID = 1311387401037287456
+TOKEN = ''
+CHANNEL_ID = 
 NOAA_URL = "https://www.charts.noaa.gov/ENCs/ENCs.shtml"
 DOWNLOAD_PREFIX_URL = 'https://www.charts.noaa.gov/ENCs/'
 last_update = None
