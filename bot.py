@@ -12,6 +12,7 @@ TOKEN = os.getenv('TOKEN')
 CHANNEL_ID = os.getenv('CHANNEL_ID')
 NOAA_URL = "https://www.charts.noaa.gov/ENCs/ENCs.shtml"
 DOWNLOAD_PREFIX_URL = 'https://www.charts.noaa.gov/ENCs/'
+
 last_update = None
 intents = discord.Intents.default()
 intents.messages = True
