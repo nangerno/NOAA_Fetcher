@@ -1,9 +1,9 @@
+import os
 import discord
 from discord.ext import commands
 import requests
 from bs4 import BeautifulSoup
 import asyncio
-import os
 from dotenv import load_dotenv
 
 load_dotenv()
