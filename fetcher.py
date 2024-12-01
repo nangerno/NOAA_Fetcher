@@ -116,7 +116,6 @@ def main():
     download_zip(ZIP_URL, zip_path)
     extract_zip(zip_path, DOWNLOAD_DIR)
     convert_to_geojson(DOWNLOAD_DIR, OUTPUT_DIR)
-    print("All done!")
-
+    print(">>>>>>Fetching All done!<<<<<<<")
 if __name__ == "__main__":
     main()

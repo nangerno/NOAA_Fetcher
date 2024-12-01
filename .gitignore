@@ -123,12 +123,14 @@ celerybeat.pid
 
 # Environments
 .env
-.myvenv
+.venv
 env/
-myvenv/
+venv/
 ENV/
+geojson_data/
+noaa_data/
 env.bak/
-myvenv.bak/
+venv.bak/
 
 # Spyder project settings
 .spyderproject
