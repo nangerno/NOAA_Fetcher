@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "1746a1ae-77f5-4402-aa11-39877d96758b",
+		"name": "RESTful_APP_Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "35399861"
+	},
+	"item": [
+		{
+			"name": "charts",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "chart_id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "charts_by_location",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
